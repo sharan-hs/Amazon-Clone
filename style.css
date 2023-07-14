@@ -172,5 +172,66 @@
 
 .message-section a:hover{
     text-decoration: underline;
-    color: #febd68;
+    color: #8f3014;
 }
+
+/* shopping section styling */
+
+.shopping-section{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    background-color: #e2e7e6;
+    
+}
+
+.box{
+    height: 350px;
+    background-color: white;
+    width: 23%;
+    padding: 20px 0px 15px;
+    margin-top: 1rem;
+}
+
+.box-image{
+    height: 275px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+
+.image1{
+    background-image: url("images/box1_image.jpg");
+}
+.image2{
+    background-image: url("images/box2_image.jpg");
+}
+.image3{
+    background-image: url("images/box3_image.jpg");
+}
+.image4{
+    background-image: url("images/box4_image.jpg");
+}
+.image5{
+    background-image: url("images/box5_image.jpg");
+}
+.image6{
+    background-image: url("images/box6_image.jpg");
+}
+.image7{
+    background-image: url("images/box7_image.jpg");
+}
+.image8{
+    background-image: url("images/box8_image.jpg");
+}
+.box-content{
+    margin-left: 1rem;
+    margin-right: 1rem;
+}
+
+.box-content p{
+    color: #007185;
+    font-size: 0.78rem;
+}
+
