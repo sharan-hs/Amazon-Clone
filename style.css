@@ -19,7 +19,7 @@
 }
 
 .logo{
-    background-image: url("images/amazon_logo.png");
+    background-image: url("amazon_logo.png");
     background-size: cover;
     height: 50px;
     width: 100%;
@@ -146,7 +146,7 @@
 
 .hotsellers-section{
     height: 350px;
-    background-image: url("images/hero_image.jpg");
+    background-image: url("hero_image.jpg");
     background-size: cover;
     display: flex;
     justify-content: center;
@@ -205,25 +205,25 @@
     background-image: url("box1_image.jpg");
 }
 .image2{
-    background-image: url("images/box2_image.jpg");
+    background-image: url("box2_image.jpg");
 }
 .image3{
-    background-image: url("images/box3_image.jpg");
+    background-image: url("box3_image.jpg");
 }
 .image4{
-    background-image: url("images/box4_image.jpg");
+    background-image: url("box4_image.jpg");
 }
 .image5{
-    background-image: url("images/box5_image.jpg");
+    background-image: url("box5_image.jpg");
 }
 .image6{
-    background-image: url("images/box6_image.jpg");
+    background-image: url("box6_image.jpg");
 }
 .image7{
-    background-image: url("images/box7_image.jpg");
+    background-image: url("box7_image.jpg");
 }
 .image8{
-    background-image: url("images/box8_image.jpg");
+    background-image: url("box8_image.jpg");
 }
 .box-content{
     margin-left: 1rem;
@@ -287,7 +287,7 @@ ul{
 }
 
 .footer-logo{
-    background-image: url("images/amazon_logo.png");
+    background-image: url("amazon_logo.png");
     background-size: cover;
     height: 50px;
     width: 100px;
