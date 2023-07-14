@@ -116,3 +116,28 @@
     font-weight: bold;
     font-size: 0.78rem;
 }
+
+
+/* styling panel */
+
+.panel{
+    height: 40px;
+    background-color: #232F3E;
+    display: flex;
+    color: white;
+    align-items: center;
+    justify-content: space-evenly;
+    
+}
+
+
+.panel-ops p{
+    display: inline;
+    margin-left: 15px;
+}
+
+.panel-ops{
+    width: 93%;
+    font-size: 0.80rem;
+    font-weight: 500;
+}
