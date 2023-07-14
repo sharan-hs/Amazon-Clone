@@ -141,3 +141,36 @@
     font-size: 0.80rem;
     font-weight: 500;
 }
+
+/* Hotsellers section styling */
+
+.hotsellers-section{
+    height: 350px;
+    background-image: url("images/hero_image.jpg");
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+
+}
+
+.message-section{
+    height: 40px;
+    background-color: #fffefe	;
+    color: black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 80%;
+    margin-bottom: 25px;
+
+}
+
+.message-section a{  
+    color: #007185;
+}
+
+.message-section a:hover{
+    text-decoration: underline;
+    color: #febd68;
+}
